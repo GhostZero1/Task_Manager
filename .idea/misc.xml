@@ -9,8 +9,9 @@
         <entry key="app/src/main/res/layout/content_main.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/item_note_list.xml" value="0.22291666666666668" />
         <entry key="app/src/main/res/layout/sample_note_dao.xml" value="0.19895833333333332" />
-        <entry key="app/src/main/res/menu/menu_main.xml" value="0.1109375" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.25" />
       </map>
     </option>
   </component>
